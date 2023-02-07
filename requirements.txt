@@ -1,0 +1,14 @@
+torch
+transformers
+datasets
+
+mlflow
+mlflow[extras]
+
+pytest
+flake8
+pylint
+
+IPython
+
+notebook
